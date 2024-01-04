@@ -14,9 +14,8 @@
 
 <div>
   <a href="https://github.com/LuizBrzdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBrzdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBrzdev&layout=compact&langs_count=8&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
 <hr style="height:1px;">
    
 ## Technologies & Tools
