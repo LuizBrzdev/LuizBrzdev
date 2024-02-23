@@ -20,10 +20,12 @@
    
 ## Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter&label=Code&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Kotlin-orange?logo=kotlin&label=Code&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Dart-blue?logo=dart&label=Code&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Node-js?logo=node.js&label=Code)
 ![Static Badge](https://img.shields.io/badge/CodeMagic-orange?logo=codemagic&label=CI%2FCD&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-white?logo=github&label=Version&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Firebase-orange?logo=firebase&label=Cloud&labelColor=black)
+
 
 
 
