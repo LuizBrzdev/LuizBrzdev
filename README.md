@@ -1,7 +1,7 @@
 ## About me
 
 -  My name is Luiz, I'm a software engineer and currently live in Brazil.
--  I work with development for at least 4 years, I have experience with Flutter and Dart
+-  I work with development for at least 5 years, I have experience with Flutter and Dart
 -  I'm currently learning Kotlin and TypeScript and want to delve deeper into DevOps
 <hr style="height:1px;">
 </div>
